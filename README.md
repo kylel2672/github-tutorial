@@ -11,8 +11,8 @@ while Github is a "cloud" so you can share, revise, and edit codes for others to
 ---
 ## Initial Setup
 
-1. Create a [**github account**](github.com)
-2. Setup an __ide.cs.50.io__
+1. Create a [**github account**](github.com) by pressing sign up.
+2. Setup an __ide.cs.50.io__ by going to **[this link](github.com/hstatsep/ide50)**.
 
 ---
 ## Repository Setup
@@ -24,7 +24,7 @@ while Github is a "cloud" so you can share, revise, and edit codes for others to
 5. Then you make a file using **touch README.md**.
 6. You then init it by using **git init**.
 7. Next you go inside the file using **c9 README.md**.
-8. After that, write in whatever you want. 
+8. After that, write in whatever you want.
 9. Then you save this file using **commmand s**.
 10. Then **git add README.md**
 11. Then commmit it using **git commit -m "added text in README.md"**
