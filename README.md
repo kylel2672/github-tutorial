@@ -53,6 +53,6 @@ After that, you have to use git add (the file name) to the statging area, before
 ---
 ## Extra help
 
-* github.com/hstatsep/ide50
+* [github.com/hstatsep/ide50](github.com/hstatsep/ide50)
 * https://help.github.com/en
 
