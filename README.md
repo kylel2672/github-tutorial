@@ -56,3 +56,7 @@ After that, you have to use git add (the file name) to the statging area, before
 * [github.com/hstatsep/ide50](github.com/hstatsep/ide50)
 * https://help.github.com/en
 
+### FEEDBACK
+You did very well on this project.
+You provide steps to create your IDE and the commands.
+I sugguest you to add steps to creating github repository before doing IDE.
