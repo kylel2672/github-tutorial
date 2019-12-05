@@ -48,8 +48,8 @@ while Github is a "cloud" so you can share, revise, and edit codes for others to
 * **git revert** - Works by undoing changes that were made in the specified by commit by creating another new commit and not actually removing any previous commits. This is ideal for published changes because the true history of the repo is preserved.
 * **git help** - use this command for even more commands
 
-You have to use git init or else you would face errors while commiting and pushing.
-After that, you have to use git add (the file name) to the statging area, before you git commit -m "message" or else you would have nothing to commit nor push.
+**You have to use git init or else you would face errors while commiting and pushing.**
+**After that, you have to use git add (the file name) to the statging area, before you git commit -m "message" or else you would have nothing to commit nor push.**
 ---
 ## Extra help
 
